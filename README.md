@@ -1,3 +1,5 @@
+![screenshot](https://github.com/tanmay-shrimali/easy-and-secure-password-generator/assets/119653072/adae3d5f-7724-444d-86ce-90890ace2863)
+
 # Password Generator
 
 A web application that generates secure passwords based on user preferences and includes additional words for better memorability.
